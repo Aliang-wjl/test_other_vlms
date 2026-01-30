@@ -1,0 +1,6 @@
+[submodule "RTPT"]
+	path = RTPT
+	url = git@github.com:TomSheng21/R-TPT.git
+[submodule "COOP"]
+	path = COOP
+	url = git@github.com:KaiyangZhou/CoOp.git
